@@ -246,8 +246,8 @@ jalan("\033[1;91m------------------------------------------------")
 jalan("\033[1;93m --Tool Update 100%   Welcome to B4 BALOCH-----")
 print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBaloch\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "786786"
-CorrectPassword = "786786"
+CorrectUsername = "raj"
+CorrectPassword = "rajvai"
 
 loop = 'true'
 while (loop == 'true'):
@@ -260,10 +260,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCAGKWM8EwDFZ9sP8CdJhGBA')
+            os.system('xdg-open https://www.facebook.com/raj.hasan.3152130')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCAGKWM8EwDFZ9sP8CdJhGBA')
+        os.system('xdg-open https://www.facebook.com/raj.hasan.3152130')
 
 def login():
 	os.system('clear')
